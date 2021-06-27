@@ -20,6 +20,10 @@
       "id": 1,
       "title": "In Two Minds Facial Cleanser",
       "description": "A gentle gel-based formulation that cleanses thoroughly without drying the skin or stripping its natural oils.",
+      "categories": [
+        {"label": "Skin", "link": "/skin"},
+        {"label": "Cleanse", "link": "/cleanse"}
+      ],
       "suits": "Combination skin",
       "feel": "Purified, soft, refreshed",
       "ingredients": [
