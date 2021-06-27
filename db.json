@@ -5,15 +5,15 @@
         {"label": "Shop", "link": "/shop"},
         {"label": "Read", "link": "/read"},
         {"label": "Stores", "link": "/stores"},
-        {"label": "Search", "link": "/search"},
+        {"label": "Search", "link": "/search"}
       ]
     },
     {"secondary": 
       [
         {"label": "Login", "link": "/login"},
-        {"label": "Cart", "link": "/"},
+        {"label": "Cart", "link": "/"}
       ]
-   }
+    }
   ],
   "products": [
     {
@@ -32,13 +32,13 @@
       ],
       "sizes": [
         {"small": "100ml", "price": "23.00", "img": ""},
-        {"large": "200ml", "price": "35.00", "img": ""},
+        {"large": "200ml", "price": "35.00", "img": ""}
       ],
       "usage": "Dispense into clean hands, massage over the face and neck, then rinse thoroughly with warm water.",
       "dosage": "Half a teaspoon",
       "texture": "Lightweight gel",
       "aroma": "Fresh, herbaceous",
-      "produtDetailImage": ""
+      "produtDetailImage": " "
     }
   ]
 }
