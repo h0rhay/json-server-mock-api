@@ -31,14 +31,14 @@
         }
       ],
       "sizes": [
-        {"small": "100ml", "price": "23.00", "img": ""},
-        {"large": "200ml", "price": "35.00", "img": ""}
+        {"small": "100ml", "price": "23.00", "img": "https://www.aesop.com/u1nb1km7t5q7/7tnEMRS4AaGorVjN4Qh6iN/77dd7f1107054d94f3bdc1a845b083d8/Aesop-Skin-In-Two-Minds-Facial-Cleanser-100mL-Large-835x962px.png"},
+        {"large": "200ml", "price": "35.00", "img": "https://www.aesop.com/u1nb1km7t5q7/3h9Qb23qAameNPEKISDcOX/57a4a51629f39f4aecc06ae827eca0af/Aesop-Skin-In-Two-Minds-Facial-Cleanser-200mL-Large-835x962px.png"}
       ],
       "usage": "Dispense into clean hands, massage over the face and neck, then rinse thoroughly with warm water.",
       "dosage": "Half a teaspoon",
       "texture": "Lightweight gel",
       "aroma": "Fresh, herbaceous",
-      "produtDetailImage": " "
+      "produtDetailImage": "https://www.aesop.com/u1nb1km7t5q7/45cmtY7HqHrzvKLEBFmTa9/c5b1e36efad6f01af887949ddde88906/Aesop-Skin-In-Two-Minds-Facial-Cleanser-Texture-Landing-Page-Hero-50-50-Desktop-1440x1500px.jpg"
     }
   ]
 }
