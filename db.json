@@ -1,20 +1,40 @@
 {
-  "navigation": [
-    {"primary": 
-      [
-        {"label": "Shop", "link": "/shop"},
-        {"label": "Read", "link": "/read"},
-        {"label": "Stores", "link": "/stores"},
-        {"label": "Search", "link": "/search"}
-      ]
-    },
-    {"secondary": 
-      [
-        {"label": "Login", "link": "/login"},
-        {"label": "Cart", "link": "/"}
-      ]
-    }
-  ],
+  "navigation": {
+    "primary": [
+      { 
+        "id": 1,
+        "label": "Shop",
+        "link": "/shop"
+      },
+      {
+        "id": 2,
+        "label": "Read",
+        "link": "/read"
+      },
+      {
+        "id": 3,
+        "label": "Stores",
+        "link": "/stores"
+      },
+      {
+        "id": 4,
+        "label": "Search",
+        "link": "/search"
+      }
+    ],
+    "secondary": [
+      {
+        "id": 1,
+        "label": "Login",
+        "link": "/login"
+      },
+      {
+        "id": 2,
+        "label": "Cart",
+        "link": "/"
+      }
+    ]
+  },
   "products": [
     {
       "id": 1,
