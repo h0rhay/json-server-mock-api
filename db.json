@@ -54,10 +54,18 @@
           "full": "Water (Aqua), Sodium Laurylglucosides Hydroxypropylsulfonate, Cocamidopropyl Hydroxysultaine, PEG-40 Hydrogenated Castor Oil, Sorbitol, Hamamelis Virginiana (Witch Hazel) Water, Sodium Methyl Cocoyl Taurate, Sodium Chloride, Phenoxyethanol, PEG-120 Methyl Glucose Dioleate, Polysorbate 80, Lavandula Angustifolia (Lavender) Oil, Sodium Dehydroacetate, Sodium Gluconate, Ormenis Multicaulis Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Citric Acid, Salicylic Acid, Coconut Acid, Salvia Officinalis (Sage) Oil, Benzoic Acid, Tocopherol, Linalool, Limonene."
         }
       ],
-      "sizes": [
-        {"small": "100ml", "price": "23.00", "img": "https://www.aesop.com/u1nb1km7t5q7/7tnEMRS4AaGorVjN4Qh6iN/77dd7f1107054d94f3bdc1a845b083d8/Aesop-Skin-In-Two-Minds-Facial-Cleanser-100mL-Large-835x962px.png"},
-        {"large": "200ml", "price": "35.00", "img": "https://www.aesop.com/u1nb1km7t5q7/3h9Qb23qAameNPEKISDcOX/57a4a51629f39f4aecc06ae827eca0af/Aesop-Skin-In-Two-Minds-Facial-Cleanser-200mL-Large-835x962px.png"}
-      ],
+      "sizes": {
+        "small": [
+          {"size": "100"},
+          {"price": "23.00"},
+          {"img": "https://www.aesop.com/u1nb1km7t5q7/7tnEMRS4AaGorVjN4Qh6iN/77dd7f1107054d94f3bdc1a845b083d8/Aesop-Skin-In-Two-Minds-Facial-Cleanser-100mL-Large-835x962px.png"}
+        ],
+        "large": [
+          {"size": "200"},
+          {"price": "35.00"},
+          {"img": "https://www.aesop.com/u1nb1km7t5q7/3h9Qb23qAameNPEKISDcOX/57a4a51629f39f4aecc06ae827eca0af/Aesop-Skin-In-Two-Minds-Facial-Cleanser-200mL-Large-835x962px.png"}
+        ]
+      },
       "usage": "Dispense into clean hands, massage over the face and neck, then rinse thoroughly with warm water.",
       "dosage": "Half a teaspoon",
       "texture": "Lightweight gel",
@@ -68,4 +76,3 @@
     }
   ]
 }
-    
